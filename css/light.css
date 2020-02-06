@@ -1,3 +1,18 @@
 body {
-   background-color: aliceblue;
+   background-color: #EADEDA;
+   color : #3C7A89;
+}
+
+h1{
+   color :#3C7A89;
+}
+
+.user{
+   color : #3C7A89;
+   background-color : #C2D3CD;
+}
+
+.user : hover{
+   color : #C2D3CD;
+   background-color : #3C7A89;
 }
