@@ -15,4 +15,5 @@ h1{
 .user : hover{
    color : #C2D3CD;
    background-color : #3C7A89;
+   transition-duration : 2s;
 }
